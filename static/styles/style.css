@@ -95,6 +95,9 @@ body {
   .header__inner {
     flex-direction: column;
   }
+  .site-logo {
+    padding: 15px 0 5px;
+  }
 }
 
 @media screen and (max-width: 360px) {
