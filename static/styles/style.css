@@ -91,7 +91,7 @@ body {
   color: #0f0f0f;
 }
 
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 620px) {
   .header__inner {
     flex-direction: column;
   }
@@ -100,7 +100,7 @@ body {
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 410px) {
   .nav {
     padding: 0;
   }
