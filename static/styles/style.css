@@ -85,7 +85,8 @@ body {
   transition: all 0.3s;
 }
 
-.menu__link:hover {
+.menu__link:hover,
+.menu__link_active {
   background-color: #fff;
   color: #0f0f0f;
 }
